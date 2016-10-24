@@ -19,17 +19,17 @@
 			<nav>
 				<ul>
 					<li>
-						<a href="/conferenceprogram/conferenceprogram.html">Conference Program</a>
+						<a href="/conferenceprogram/index.html">Conference Program</a>
 
 					</li>
 					<li>
-						<a href="/aboutus/about.html">About Us</a>
+						<a href="/aboutus/index.html">About Us</a>
 
 					</li>
 
 					<li>
 						
-						<a href="/contact/contact.html">Contact</a>
+						<a href="/contact/index.html">Contact</a>
 					</li>
 				</ul>
 			</nav>
